@@ -1,4 +1,4 @@
-My solutions for COMP2521 Practice Exercises, which are available at:
+My solutions for the COMP2521 practice exercises, which are available at:
 
 https://cgi.cse.unsw.edu.au/~cs2521/practice-exercises/
 
