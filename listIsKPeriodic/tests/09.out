@@ -1,0 +1,3 @@
+Enter list: Enter k: 
+List: [2] -> [3] -> [4] -> [2] -> [3] -> [4] -> [2] -> X
+listIsKPeriodic returned TRUE
